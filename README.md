@@ -1,6 +1,12 @@
 # JobVerse — Job Portal Web App
 
 A full-stack job portal where **recruiters** can post jobs and **candidates** can browse, search, and apply. Built with the MERN stack (MongoDB, Express, React, Node.js) + JWT authentication.
+# JobVerse — Job Portal Web App
+
+🔗 **Live Demo:** [https://jobverse-swart.vercel.app/](https://jobverse-swart.vercel.app/)
+🔗 **Backend API:** [https://jobverse-nhfv.onrender.com](https://jobverse-nhfv.onrender.com)
+
+A full-stack job portal where **recruiters** can post jobs and **candidates** can browse, search, and apply. Built with the MERN stack (MongoDB, Express, React, Node.js) + JWT authentication.
 
 ---
 
