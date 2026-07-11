@@ -69,14 +69,6 @@ It will show a link like `http://localhost:5173` — open that in your browser. 
 
 ---
 
-## Deploying it live (so you can put a real link on your resume)
-
-- **Backend** → deploy free on [Render](https://render.com) (connect your GitHub repo, set the same environment variables as your `.env`)
-- **Frontend** → deploy free on [Vercel](https://vercel.com) (connect your GitHub repo, it auto-detects Vite)
-- Once both are live, update the `baseURL` in `frontend/src/api/axios.js` to point to your deployed backend URL instead of `localhost:5000`
-
----
-
 ## Tech Stack
 
 - **Frontend:** React, React Router, Tailwind CSS, Axios, Vite
